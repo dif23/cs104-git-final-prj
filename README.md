@@ -6,6 +6,6 @@ I also added a method to "read" the instructions into a binary string and displa
 
 Lastly, it prints the final values from the CPU's 8 registers. 
 
-Overall, it works, but if you start adding more instructions to cpu.py, it gets buggy.
+Overall, it works, but if you start adding more instructions to cpu.py, it gets buggy. You'd have to change the addresses of the datainput.txt and instruction_input.txt files in main.py if you ran this on another computer. 
 
 Thank you for the sample project to build off of! 
